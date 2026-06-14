@@ -1,0 +1,8 @@
+# Compiled Java
+*.class
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
