@@ -12,6 +12,7 @@ code.
 | 1. Expense Tracker | [`ExpenseTrackerApp.java`](ExpenseTrackerApp.java) | entities vs attributes, encapsulation, one-to-many, picking collections |
 | 2. Banking System | [`BankSystem.java`](BankSystem.java) | exact money math (`long` cents), custom exceptions, immutable transaction history, nested one-to-many |
 | 3. Library Management | [`LibrarySystem.java`](LibrarySystem.java) | title vs physical copy, **many-to-many via a join entity** (`Loan`), due dates & borrowing rules |
+| 4. Parking Lot | [`ParkingLotSystem.java`](ParkingLotSystem.java) | **inheritance + polymorphism** (`Vehicle` hierarchy), spot-fit logic, ticketing & fees |
 
 ## Run it
 
@@ -53,4 +54,4 @@ The [`java/notes/`](java/notes/) folder is the heart of the learning material:
 - [x] Expense Tracker
 - [x] Banking System
 - [x] Library Management System
-- [ ] Parking Lot System
+- [x] Parking Lot System

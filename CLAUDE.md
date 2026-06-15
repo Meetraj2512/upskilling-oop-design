@@ -14,6 +14,7 @@ dependency — just the JDK.
 | `ExpenseTrackerApp.java` | `ExpenseTrackerApp` | Expense Tracker |
 | `BankSystem.java` | `BankSystem` | Banking System |
 | `LibrarySystem.java` | `LibrarySystem` | Library Management |
+| `ParkingLotSystem.java` | `ParkingLotSystem` | Parking Lot |
 
 ## Build & run
 
